@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+
+.left-image{
+    background: url(../images/profile-pic.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+.grey-area{
+    background-color: white;
+    text-emphasis-color: #6f42c1;;
+}
+
+.list-group-item{
+    background-color:#f9f9f9;
+}
+
+.container{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
